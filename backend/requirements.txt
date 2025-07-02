@@ -1,0 +1,6 @@
+Flask
+beautifulsoup4
+requests
+nltk
+scikit-learn
+flask-cors

@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Two Sum",
+    "link": "https://leetcode.com/problems/two-sum/",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "Add Two Numbers",
+    "link": "https://leetcode.com/problems/add-two-numbers/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "C++"
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "Java"
+  },
+  {
+    "title": "Median of Two Sorted Arrays",
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "difficulty": "Hard",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "Valid Parentheses",
+    "link": "https://leetcode.com/problems/valid-parentheses/",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "language": "Java"
+  },
+  {
+    "title": "Reverse Integer",
+    "link": "https://leetcode.com/problems/reverse-integer/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "C++"
+  },
+  {
+    "title": "Container With Most Water",
+    "link": "https://leetcode.com/problems/container-with-most-water/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "Merge k Sorted Lists",
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "difficulty": "Hard",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "Climbing Stairs",
+    "link": "https://leetcode.com/problems/climbing-stairs/",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "Word Break",
+    "link": "https://leetcode.com/problems/word-break/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "Java"
+  },
+  {
+    "title": "A. Theatre Square",
+    "link": "https://codeforces.com/problemset/problem/1/A",
+    "difficulty": "800",
+    "platform": "Codeforces",
+    "language": "C++"
+  },
+  {
+    "title": "A. Beautiful Matrix",
+    "link": "https://codeforces.com/problemset/problem/263/A",
+    "difficulty": "800",
+    "platform": "Codeforces",
+    "language": "Python"
+  },
+  {
+    "title": "A. Boy or Girl",
+    "link": "https://codeforces.com/problemset/problem/236/A",
+    "difficulty": "800",
+    "platform": "Codeforces",
+    "language": "Java"
+  },
+  {
+    "title": "B. Vanya and Lanterns",
+    "link": "https://codeforces.com/problemset/problem/492/B",
+    "difficulty": "1200",
+    "platform": "Codeforces",
+    "language": "Python"
+  },
+  {
+    "title": "B. Sale",
+    "link": "https://codeforces.com/problemset/problem/34/B",
+    "difficulty": "900",
+    "platform": "Codeforces",
+    "language": "Java"
+  },
+  {
+    "title": "C. Compilation Errors",
+    "link": "https://codeforces.com/problemset/problem/519/B",
+    "difficulty": "1000",
+    "platform": "Codeforces",
+    "language": "C++"
+  },
+  {
+    "title": "D. Longest Regular Bracket Sequence",
+    "link": "https://codeforces.com/problemset/problem/5/C",
+    "difficulty": "1500",
+    "platform": "Codeforces",
+    "language": "Java"
+  },
+  {
+    "title": "C. Registration System",
+    "link": "https://codeforces.com/problemset/problem/4/C",
+    "difficulty": "1300",
+    "platform": "Codeforces",
+    "language": "Python"
+  },
+  {
+    "title": "B. Queue at the School",
+    "link": "https://codeforces.com/problemset/problem/266/B",
+    "difficulty": "900",
+    "platform": "Codeforces",
+    "language": "C++"
+  },
+  {
+    "title": "A. Watermelon",
+    "link": "https://codeforces.com/problemset/problem/4/A",
+    "difficulty": "800",
+    "platform": "Codeforces",
+    "language": "Java"
+  },
+  {
+    "title": "Chef and Pairing Slippers",
+    "link": "https://www.codechef.com/problems/CHEFSLIP",
+    "difficulty": "Easy",
+    "platform": "CodeChef",
+    "language": "C++"
+  },
+  {
+    "title": "Chef and Glove",
+    "link": "https://www.codechef.com/problems/CHEGLOVE",
+    "difficulty": "Easy",
+    "platform": "CodeChef",
+    "language": "Python"
+  },
+  {
+    "title": "Chef and Easy Problem",
+    "link": "https://www.codechef.com/problems/EASYPROB",
+    "difficulty": "Medium",
+    "platform": "CodeChef",
+    "language": "Python"
+  },
+  {
+    "title": "Chef and Division 3",
+    "link": "https://www.codechef.com/problems/CHFINVNT",
+    "difficulty": "Medium",
+    "platform": "CodeChef",
+    "language": "C++"
+  },
+  {
+    "title": "Farmer Feb",
+    "link": "https://www.codechef.com/problems/FEBCHEF",
+    "difficulty": "Easy",
+    "platform": "CodeChef",
+    "language": "Java"
+  },
+  {
+    "title": "Chef and Bulb Invention",
+    "link": "https://www.codechef.com/problems/CHEFBULB",
+    "difficulty": "Easy",
+    "platform": "CodeChef",
+    "language": "Python"
+  },
+  {
+    "title": "Chef and String",
+    "link": "https://www.codechef.com/problems/CHEFSTR1",
+    "difficulty": "Medium",
+    "platform": "CodeChef",
+    "language": "C++"
+  },
+  {
+    "title": "Chef and Walk",
+    "link": "https://www.codechef.com/problems/CHEFWALK",
+    "difficulty": "Medium",
+    "platform": "CodeChef",
+    "language": "Java"
+  },
+  {
+    "title": "Minimum Number of Swaps to Make String Balanced",
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "C++"
+  },
+  {
+    "title": "Longest Valid Parentheses",
+    "link": "https://leetcode.com/problems/longest-valid-parentheses/",
+    "difficulty": "Hard",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "Find Median from Data Stream",
+    "link": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "difficulty": "Hard",
+    "platform": "LeetCode",
+    "language": "Java"
+  },
+  {
+    "title": "Maximum Product Subarray",
+    "link": "https://leetcode.com/problems/maximum-product-subarray/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "House Robber",
+    "link": "https://leetcode.com/problems/house-robber/",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "language": "Java"
+  },
+  {
+    "title": "Rotate Array",
+    "link": "https://leetcode.com/problems/rotate-array/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "C++"
+  },
+  {
+    "title": "Subsets",
+    "link": "https://leetcode.com/problems/subsets/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "Number of Islands",
+    "link": "https://leetcode.com/problems/number-of-islands/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "C++"
+  },
+  {
+    "title": "Trapping Rain Water",
+    "link": "https://leetcode.com/problems/trapping-rain-water/",
+    "difficulty": "Hard",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "Sudoku Solver",
+    "link": "https://leetcode.com/problems/sudoku-solver/",
+    "difficulty": "Hard",
+    "platform": "LeetCode",
+    "language": "Java"
+  },
+  {
+    "title": "Combination Sum",
+    "link": "https://leetcode.com/problems/combination-sum/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "Python"
+  },
+  {
+    "title": "LRU Cache",
+    "link": "https://leetcode.com/problems/lru-cache/",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "language": "C++"
+  }
+]
