@@ -1,0 +1,442 @@
+[
+  {
+    "platform": "Codeforces",
+    "title": "Ice Baby",
+    "url": "https://codeforces.com/problemset/problem/2121/H",
+    "difficulty": "x1117",
+    "solved_count": "2300",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Sponsor of Your Problems",
+    "url": "https://codeforces.com/problemset/problem/2121/E",
+    "difficulty": "x9051",
+    "solved_count": "1500",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Lanes of Cars",
+    "url": "https://codeforces.com/problemset/problem/2120/E",
+    "difficulty": "x1100",
+    "solved_count": "2300",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Red Light, Green Light (Hard version)",
+    "url": "https://codeforces.com/problemset/problem/2118/D2",
+    "difficulty": "x1575",
+    "solved_count": "2200",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Red Light, Green Light (Easy version)",
+    "url": "https://codeforces.com/problemset/problem/2118/D1",
+    "difficulty": "x5003",
+    "solved_count": "1700",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Gellyfish and Mayflower",
+    "url": "https://codeforces.com/problemset/problem/2115/E",
+    "difficulty": "x123",
+    "solved_count": "3500",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Gellyfish and Forget-Me-Not",
+    "url": "https://codeforces.com/problemset/problem/2115/D",
+    "difficulty": "x483",
+    "solved_count": "2900",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Gellyfish and Eternal Violet",
+    "url": "https://codeforces.com/problemset/problem/2115/C",
+    "difficulty": "x552",
+    "solved_count": "2700",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Gellyfish and Camellia Japonica",
+    "url": "https://codeforces.com/problemset/problem/2115/B",
+    "difficulty": "x2689",
+    "solved_count": "2100",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Gellyfish and Flaming Peony",
+    "url": "https://codeforces.com/problemset/problem/2115/A",
+    "difficulty": "x10527",
+    "solved_count": "1500",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Build an Array",
+    "url": "https://codeforces.com/problemset/problem/2114/G",
+    "difficulty": "x1400",
+    "solved_count": "2200",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Small Operations",
+    "url": "https://codeforces.com/problemset/problem/2114/F",
+    "difficulty": "x3879",
+    "solved_count": "2000",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Kirei Attacks the Estate",
+    "url": "https://codeforces.com/problemset/problem/2114/E",
+    "difficulty": "x10193",
+    "solved_count": "1400",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Need More Arrays",
+    "url": "https://codeforces.com/problemset/problem/2114/C",
+    "difficulty": "x24697",
+    "solved_count": "1000",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Tree Colorings",
+    "url": "https://codeforces.com/problemset/problem/2112/E",
+    "difficulty": "x1994",
+    "solved_count": "2200",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Fibonacci Cubes",
+    "url": "https://codeforces.com/problemset/problem/2111/B",
+    "difficulty": "x14408",
+    "solved_count": "1100",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Fewer Batteries",
+    "url": "https://codeforces.com/problemset/problem/2110/D",
+    "difficulty": "x6246",
+    "solved_count": "1700",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Binary String Wowee",
+    "url": "https://codeforces.com/problemset/problem/2109/E",
+    "difficulty": "x1026",
+    "solved_count": "2400",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Neo's Escape",
+    "url": "https://codeforces.com/problemset/problem/2108/C",
+    "difficulty": "x11240",
+    "solved_count": "1500",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Cycling (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2107/F2",
+    "difficulty": "x319",
+    "solved_count": "2800",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Cycling (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2107/F1",
+    "difficulty": "x1385",
+    "solved_count": "2300",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Maximum Subarray Sum",
+    "url": "https://codeforces.com/problemset/problem/2107/C",
+    "difficulty": "x9255",
+    "solved_count": "1500",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Goblin",
+    "url": "https://codeforces.com/problemset/problem/2106/F",
+    "difficulty": "x3346",
+    "solved_count": "1900",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Flower Boy",
+    "url": "https://codeforces.com/problemset/problem/2106/D",
+    "difficulty": "x9600",
+    "solved_count": "1500",
+    "topic": "dp"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "Numbers and Strings",
+    "url": "https://codeforces.com/problemset/problem/2104/F",
+    "difficulty": "x542",
+    "solved_count": "2600",
+    "topic": "dp"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Solve Me FirstEasyProblem Solving (Basic)Max Score: 1Success Rate: 97.62%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Simple Array SumEasyProblem Solving (Basic)Max Score: 10Success Rate: 94.72%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Compare the TripletsEasyProblem Solving (Basic)Max Score: 10Success Rate: 96.01%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/compare-the-triplets?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "A Very Big SumEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.84%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/a-very-big-sum?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Diagonal DifferenceEasyProblem Solving (Basic)Max Score: 10Success Rate: 96.14%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/diagonal-difference?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Plus MinusEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.43%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/plus-minus?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "StaircaseEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.40%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/staircase?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Mini-Max SumEasyProblem Solving (Basic)Max Score: 10Success Rate: 94.60%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/mini-max-sum?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Birthday Cake CandlesEasyProblem Solving (Basic)Max Score: 10Success Rate: 97.25%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Time ConversionEasyProblem Solving (Basic)Max Score: 15Success Rate: 92.62%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/time-conversion?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Grading StudentsEasyProblem Solving (Basic)Max Score: 10Success Rate: 96.48%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/grading?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Apple and OrangeEasyProblem Solving (Basic)Max Score: 10Success Rate: 96.40%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/apple-and-orange?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Number Line JumpsEasyProblem Solving (Basic)Max Score: 10Success Rate: 89.83%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/kangaroo?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Between Two SetsEasyProblem Solving (Basic)Max Score: 10Success Rate: 91.18%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Breaking the RecordsEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.57%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/breaking-best-and-worst-records?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Subarray DivisionEasyProblem Solving (Basic)Max Score: 10Success Rate: 94.34%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/the-birthday-bar?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Divisible Sum PairsEasyProblem Solving (Basic)Max Score: 10Success Rate: 97.76%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/divisible-sum-pairs?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Migratory BirdsEasyProblem Solving (Basic)Max Score: 10Success Rate: 92.34%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/migratory-birds?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Day of the ProgrammerEasyProblem Solving (Basic)Max Score: 15Success Rate: 90.93%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/day-of-the-programmer?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Bill DivisionEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.06%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/bon-appetit?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Sales by MatchEasyProblem Solving (Basic)Max Score: 10Success Rate: 92.78%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/sock-merchant?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Drawing BookEasyProblem Solving (Basic)Max Score: 10Success Rate: 90.13%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/drawing-book?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Counting ValleysEasyProblem Solving (Basic)Max Score: 15Success Rate: 95.18%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/counting-valleys?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Electronics ShopEasyProblem Solving (Basic)Max Score: 15Success Rate: 93.33%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/electronics-shop?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Cats and a MouseEasyProblem Solving (Basic)Max Score: 15Success Rate: 97.96%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/cats-and-a-mouse?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Forming a Magic SquareMediumProblem Solving (Basic)Max Score: 20Success Rate: 79.51%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/magic-square-forming?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Picking NumbersEasyProblem Solving (Basic)Max Score: 20Success Rate: 90.49%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/picking-numbers?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Climbing the LeaderboardMediumProblem Solving (Basic)Max Score: 20Success Rate: 63.18%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/climbing-the-leaderboard?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "The Hurdle RaceEasyProblem Solving (Basic)Max Score: 15Success Rate: 98.87%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/the-hurdle-race?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  },
+  {
+    "platform": "HackerRank",
+    "title": "Designer PDF ViewerEasyProblem Solving (Basic)Max Score: 20Success Rate: 98.82%Solve Challenge",
+    "url": "https://www.hackerrank.com/challenges/designer-pdf-viewer?isFullScreen=true",
+    "difficulty": "Easy",
+    "domain": "algorithms",
+    "topic": "algorithms"
+  }
+]
