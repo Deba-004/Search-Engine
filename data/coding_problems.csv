@@ -1,0 +1,56 @@
+platform,title,url,difficulty,solved_count,topic,domain
+Codeforces,Longest Good Subsequence,https://codeforces.com/problemset/problem/2124/H,x47,,dp,
+Codeforces,Appending Permutations (Hard Version),https://codeforces.com/problemset/problem/2124/F2,x226,,dp,
+Codeforces,Appending Permutations (Easy Version),https://codeforces.com/problemset/problem/2124/F1,x826,,dp,
+Codeforces,Ice Baby,https://codeforces.com/problemset/problem/2121/H,x1217,2300,dp,
+Codeforces,Sponsor of Your Problems,https://codeforces.com/problemset/problem/2121/E,x9573,1500,dp,
+Codeforces,Lanes of Cars,https://codeforces.com/problemset/problem/2120/E,x1162,2300,dp,
+Codeforces,Volcanic Eruptions,https://codeforces.com/problemset/problem/2119/F,x43,,dp,
+Codeforces,And Constraint,https://codeforces.com/problemset/problem/2119/E,x238,,dp,
+Codeforces,Token Removing,https://codeforces.com/problemset/problem/2119/D,x1863,,dp,
+Codeforces,"Red Light, Green Light (Hard version)",https://codeforces.com/problemset/problem/2118/D2,x1643,2200,dp,
+Codeforces,"Red Light, Green Light (Easy version)",https://codeforces.com/problemset/problem/2118/D1,x5131,1700,dp,
+Codeforces,Gellyfish and Mayflower,https://codeforces.com/problemset/problem/2115/E,x127,3500,dp,
+Codeforces,Gellyfish and Forget-Me-Not,https://codeforces.com/problemset/problem/2115/D,x500,2900,dp,
+Codeforces,Gellyfish and Eternal Violet,https://codeforces.com/problemset/problem/2115/C,x569,2700,dp,
+Codeforces,Gellyfish and Camellia Japonica,https://codeforces.com/problemset/problem/2115/B,x2762,2100,dp,
+Codeforces,Gellyfish and Flaming Peony,https://codeforces.com/problemset/problem/2115/A,x10716,1500,dp,
+Codeforces,Build an Array,https://codeforces.com/problemset/problem/2114/G,x1441,2200,dp,
+Codeforces,Small Operations,https://codeforces.com/problemset/problem/2114/F,x3969,2000,dp,
+Codeforces,Kirei Attacks the Estate,https://codeforces.com/problemset/problem/2114/E,x10346,1400,dp,
+Codeforces,Need More Arrays,https://codeforces.com/problemset/problem/2114/C,x24923,1000,dp,
+Codeforces,Tree Colorings,https://codeforces.com/problemset/problem/2112/E,x2134,2200,dp,
+Codeforces,Fibonacci Cubes,https://codeforces.com/problemset/problem/2111/B,x14598,1100,dp,
+Codeforces,Fewer Batteries,https://codeforces.com/problemset/problem/2110/D,x6335,1700,dp,
+Codeforces,Binary String Wowee,https://codeforces.com/problemset/problem/2109/E,x1048,2400,dp,
+Codeforces,Neo's Escape,https://codeforces.com/problemset/problem/2108/C,x11381,1500,dp,
+HackerRank,Solve Me FirstEasyProblem Solving (Basic)Max Score: 1Success Rate: 97.62%Solve Challenge,https://www.hackerrank.com/challenges/solve-me-first?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Simple Array SumEasyProblem Solving (Basic)Max Score: 10Success Rate: 94.73%Solve Challenge,https://www.hackerrank.com/challenges/simple-array-sum?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Compare the TripletsEasyProblem Solving (Basic)Max Score: 10Success Rate: 96.01%Solve Challenge,https://www.hackerrank.com/challenges/compare-the-triplets?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,A Very Big SumEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.84%Solve Challenge,https://www.hackerrank.com/challenges/a-very-big-sum?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Diagonal DifferenceEasyProblem Solving (Basic)Max Score: 10Success Rate: 96.15%Solve Challenge,https://www.hackerrank.com/challenges/diagonal-difference?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Plus MinusEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.44%Solve Challenge,https://www.hackerrank.com/challenges/plus-minus?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,StaircaseEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.41%Solve Challenge,https://www.hackerrank.com/challenges/staircase?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Mini-Max SumEasyProblem Solving (Basic)Max Score: 10Success Rate: 94.60%Solve Challenge,https://www.hackerrank.com/challenges/mini-max-sum?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Birthday Cake CandlesEasyProblem Solving (Basic)Max Score: 10Success Rate: 97.26%Solve Challenge,https://www.hackerrank.com/challenges/birthday-cake-candles?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Time ConversionEasyProblem Solving (Basic)Max Score: 15Success Rate: 92.62%Solve Challenge,https://www.hackerrank.com/challenges/time-conversion?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Grading StudentsEasyProblem Solving (Basic)Max Score: 10Success Rate: 96.48%Solve Challenge,https://www.hackerrank.com/challenges/grading?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Apple and OrangeEasyProblem Solving (Basic)Max Score: 10Success Rate: 96.40%Solve Challenge,https://www.hackerrank.com/challenges/apple-and-orange?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Number Line JumpsEasyProblem Solving (Basic)Max Score: 10Success Rate: 89.84%Solve Challenge,https://www.hackerrank.com/challenges/kangaroo?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Between Two SetsEasyProblem Solving (Basic)Max Score: 10Success Rate: 91.18%Solve Challenge,https://www.hackerrank.com/challenges/between-two-sets?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Breaking the RecordsEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.57%Solve Challenge,https://www.hackerrank.com/challenges/breaking-best-and-worst-records?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Subarray DivisionEasyProblem Solving (Basic)Max Score: 10Success Rate: 94.35%Solve Challenge,https://www.hackerrank.com/challenges/the-birthday-bar?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Divisible Sum PairsEasyProblem Solving (Basic)Max Score: 10Success Rate: 97.76%Solve Challenge,https://www.hackerrank.com/challenges/divisible-sum-pairs?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Migratory BirdsEasyProblem Solving (Basic)Max Score: 10Success Rate: 92.34%Solve Challenge,https://www.hackerrank.com/challenges/migratory-birds?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Day of the ProgrammerEasyProblem Solving (Basic)Max Score: 15Success Rate: 90.94%Solve Challenge,https://www.hackerrank.com/challenges/day-of-the-programmer?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Bill DivisionEasyProblem Solving (Basic)Max Score: 10Success Rate: 98.06%Solve Challenge,https://www.hackerrank.com/challenges/bon-appetit?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Sales by MatchEasyProblem Solving (Basic)Max Score: 10Success Rate: 92.78%Solve Challenge,https://www.hackerrank.com/challenges/sock-merchant?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Drawing BookEasyProblem Solving (Basic)Max Score: 10Success Rate: 90.13%Solve Challenge,https://www.hackerrank.com/challenges/drawing-book?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Counting ValleysEasyProblem Solving (Basic)Max Score: 15Success Rate: 95.19%Solve Challenge,https://www.hackerrank.com/challenges/counting-valleys?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Electronics ShopEasyProblem Solving (Basic)Max Score: 15Success Rate: 93.33%Solve Challenge,https://www.hackerrank.com/challenges/electronics-shop?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Cats and a MouseEasyProblem Solving (Basic)Max Score: 15Success Rate: 97.97%Solve Challenge,https://www.hackerrank.com/challenges/cats-and-a-mouse?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Forming a Magic SquareMediumProblem Solving (Basic)Max Score: 20Success Rate: 79.52%Solve Challenge,https://www.hackerrank.com/challenges/magic-square-forming?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Picking NumbersEasyProblem Solving (Basic)Max Score: 20Success Rate: 90.49%Solve Challenge,https://www.hackerrank.com/challenges/picking-numbers?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Climbing the LeaderboardMediumProblem Solving (Basic)Max Score: 20Success Rate: 63.21%Solve Challenge,https://www.hackerrank.com/challenges/climbing-the-leaderboard?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,The Hurdle RaceEasyProblem Solving (Basic)Max Score: 15Success Rate: 98.87%Solve Challenge,https://www.hackerrank.com/challenges/the-hurdle-race?isFullScreen=true,Easy,,algorithms,algorithms
+HackerRank,Designer PDF ViewerEasyProblem Solving (Basic)Max Score: 20Success Rate: 98.82%Solve Challenge,https://www.hackerrank.com/challenges/designer-pdf-viewer?isFullScreen=true,Easy,,algorithms,algorithms

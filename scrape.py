@@ -2,6 +2,7 @@ import time
 import json
 import pandas as pd
 import requests
+import os
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -287,18 +288,34 @@ class CodingProblemScraper:
     def save_problems(self, filename="coding_problems.json"):
         """Save scraped problems to JSON file"""
         try:
-            with open(filename, 'w', encoding='utf-8') as f:
+            # Create data directory if it doesn't exist
+            data_dir = "data"
+            if not os.path.exists(data_dir):
+                os.makedirs(data_dir)
+                logger.info(f"Created directory: {data_dir}")
+            
+            # Save to data directory
+            filepath = os.path.join(data_dir, filename)
+            with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(self.problems, f, indent=2, ensure_ascii=False)
-            logger.info(f"Saved {len(self.problems)} problems to {filename}")
+            logger.info(f"Saved {len(self.problems)} problems to {filepath}")
         except Exception as e:
             logger.error(f"Error saving problems: {e}")
     
     def save_to_csv(self, filename="coding_problems.csv"):
         """Save scraped problems to CSV file"""
         try:
+            # Create data directory if it doesn't exist
+            data_dir = "data"
+            if not os.path.exists(data_dir):
+                os.makedirs(data_dir)
+                logger.info(f"Created directory: {data_dir}")
+            
+            # Save to data directory
+            filepath = os.path.join(data_dir, filename)
             df = pd.DataFrame(self.problems)
-            df.to_csv(filename, index=False, encoding='utf-8')
-            logger.info(f"Saved {len(self.problems)} problems to {filename}")
+            df.to_csv(filepath, index=False, encoding='utf-8')
+            logger.info(f"Saved {len(self.problems)} problems to {filepath}")
         except Exception as e:
             logger.error(f"Error saving to CSV: {e}")
     
@@ -380,7 +397,7 @@ def main():
         scraper.save_problems("coding_problems.json")
         scraper.save_to_csv("coding_problems.csv")
         
-        print("\nScraping completed! Check 'coding_problems.json' and 'coding_problems.csv' files.")
+        print("\nScraping completed! Check 'data/coding_problems.json' and 'data/coding_problems.csv' files.")
         
     except KeyboardInterrupt:
         print("\nScraping interrupted by user.")
